@@ -20,6 +20,7 @@ def ar_fyrsiffrigttal(tal):
 # Testprogram
 testtal = [100, 231, 10000, 10001, -1000, 102313]
 
+#Du hade skrivit "fyrsirrigt" i programmeringsövningshäftet
 for t in testtal:
     if ar_fyrsiffrigttal(t):
         print("{} är fyrsiffrigt".format(t))
