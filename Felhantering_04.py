@@ -1,4 +1,5 @@
 #Felhantering Uppgift 4
+#Arvid Anderson TE19D
 import time
 from colorama import Fore, Back, Style
 import statistics
