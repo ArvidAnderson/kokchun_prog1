@@ -16,7 +16,6 @@ Loopar så skriver ut eleverna i listan under varan (rad för rad)
 
 
 """
-from natsort import natsorted
 import colorama
 from colorama import Fore, Back, Style
 
