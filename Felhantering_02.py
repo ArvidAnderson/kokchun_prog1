@@ -11,6 +11,8 @@ def ar_fyrsiffrigttal(tal):
     tal_str = str(tal)
     if len(tal_str) == 4:
         return True
+    elif tal_str.startswith("-") and len(tal_str) == 4:
+        return False
     elif tal_str.startswith("-") and len(tal_str) == 5:
         return True
     else:
@@ -18,7 +20,7 @@ def ar_fyrsiffrigttal(tal):
 
 
 # Testprogram
-testtal = [100, 231, 10000, 10001, -1000, 102313]
+testtal = [100, -100, 231, 10000, 10001, -1000, 102313]
 
 #Du hade skrivit "fyrsirrigt" i programmeringsövningshäftet
 for t in testtal:
