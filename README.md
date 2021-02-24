@@ -1,3 +1,4 @@
 # kokchun_prog1
 
-### Felhantering : Klar
+### Felhantering : 3 uppgifter klara.
+### Filhantering : 3 uppgifter klara.
