@@ -17,9 +17,6 @@
 - **Dictionary**
   
   - Uppgift 01 - [Dictionary_01.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/Dictionary_01.py)
-  
   - Uppgift 02 - [Dictionary_02.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/Dictionary_02.py)
-  
   - Uppgift 03 - [Dictionary_02.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/Dictionary_02.py)
-  
   - Uppgift 04 - [Dictionary_04.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/Dictionary_04.py)
